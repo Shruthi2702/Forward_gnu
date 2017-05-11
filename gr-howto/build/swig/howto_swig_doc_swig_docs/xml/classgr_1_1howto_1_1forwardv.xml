@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="classgr_1_1howto_1_1forwardv" kind="class" language="C++" prot="public">
+    <compoundname>gr::howto::forwardv</compoundname>
+    <basecompoundref prot="public" virt="virtual">block</basecompoundref>
+    <includes refid="forwardv_8h" local="no">forwardv.h</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="classgr_1_1howto_1_1forwardv_1a806f3606d97bbe0661463977a290f0fe" prot="public" static="no">
+        <type>boost::shared_ptr&lt; <ref refid="classgr_1_1howto_1_1forwardv" kindref="compound">forwardv</ref> &gt;</type>
+        <definition>typedef boost::shared_ptr&lt;forwardv&gt; gr::howto::forwardv::sptr</definition>
+        <argsstring></argsstring>
+        <name>sptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/include/howto/forwardv.h" line="39" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/include/howto/forwardv.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv_1a4eea193de95cb37d6b82980958284df7" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classgr_1_1howto_1_1forwardv_1a806f3606d97bbe0661463977a290f0fe" kindref="member">sptr</ref></type>
+        <definition>static sptr gr::howto::forwardv::make</definition>
+        <argsstring>(double sample_rate, double rx_min_treshold, double rx_max_treshold, double time_delay, double time_cycle, int packet_length, int max_missed_symbols, int nbr_zeros_per_burst)</argsstring>
+        <name>make</name>
+        <param>
+          <type>double</type>
+          <declname>sample_rate</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>rx_min_treshold</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>rx_max_treshold</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>time_delay</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>time_cycle</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>packet_length</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>max_missed_symbols</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>nbr_zeros_per_burst</declname>
+        </param>
+        <briefdescription>
+<para>Return a shared_ptr to a new instance of <ref refid="classgr_1_1howto_1_1forwardv" kindref="compound">howto::forwardv</ref>. </para>        </briefdescription>
+        <detaileddescription>
+<para>To avoid accidental use of raw pointers, <ref refid="classgr_1_1howto_1_1forwardv" kindref="compound">howto::forwardv</ref>&apos;s constructor is in a private implementation class. <ref refid="classgr_1_1howto_1_1forwardv_1a4eea193de95cb37d6b82980958284df7" kindref="member">howto::forwardv::make</ref> is the public interface for creating new instances. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/include/howto/forwardv.h" line="49" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description of block+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="0">
+        <label>gr::howto::forwardv</label>
+        <link refid="classgr_1_1howto_1_1forwardv"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>gr::block</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>gr::howto::forwardv</label>
+        <link refid="classgr_1_1howto_1_1forwardv"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>gr::block</label>
+      </node>
+    </collaborationgraph>
+    <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/include/howto/forwardv.h" line="37" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/include/howto/forwardv.h" bodystart="36" bodyend="50"/>
+    <listofallmembers>
+      <member refid="classgr_1_1howto_1_1forwardv_1a4eea193de95cb37d6b82980958284df7" prot="public" virt="non-virtual"><scope>gr::howto::forwardv</scope><name>make</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv_1a806f3606d97bbe0661463977a290f0fe" prot="public" virt="non-virtual"><scope>gr::howto::forwardv</scope><name>sptr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

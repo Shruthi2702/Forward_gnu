@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgnuradio-howto.so -o libgnuradio-howto.so CMakeFiles/gnuradio-howto.dir/forwardv_impl.cc.o -lboost_filesystem -lboost_system -lgnuradio-runtime -lgnuradio-pmt 

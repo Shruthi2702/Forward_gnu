@@ -1,0 +1,729 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="classgr_1_1howto_1_1forwardv__impl" kind="class" language="C++" prot="public">
+    <compoundname>gr::howto::forwardv_impl</compoundname>
+    <basecompoundref refid="classgr_1_1howto_1_1forwardv" prot="public" virt="non-virtual">gr::howto::forwardv</basecompoundref>
+    <includes refid="forwardv__impl_8h" local="no">forwardv_impl.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a4f79160b9e3edcee9f88f68cdbf1e835" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::d_sample_rate</definition>
+        <argsstring></argsstring>
+        <name>d_sample_rate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="39" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a04eda138017c6d6fb00ccf05886555c6" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::d_rx_min_treshold</definition>
+        <argsstring></argsstring>
+        <name>d_rx_min_treshold</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="40" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a41887dfe2b7c55bd14b9382d270e2bb8" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::d_rx_max_treshold</definition>
+        <argsstring></argsstring>
+        <name>d_rx_max_treshold</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="41" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ad05881f382b287451527785787b63cf2" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::d_time_delay</definition>
+        <argsstring></argsstring>
+        <name>d_time_delay</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="42" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a4b1f005c9a94d9d23705517d4db2d293" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::d_time_cycle</definition>
+        <argsstring></argsstring>
+        <name>d_time_cycle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="43" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1aeb9f4848f46ab4879ece56a87bdc20b5" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::d_N</definition>
+        <argsstring></argsstring>
+        <name>d_N</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="44" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a5b5adc31050c2026685f15b792305af2" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::d_max_missed_symbols</definition>
+        <argsstring></argsstring>
+        <name>d_max_missed_symbols</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="45" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ab13fbe99cc3c45f81a0cc8fe7876248b" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::d_nbr_zeros_per_burst</definition>
+        <argsstring></argsstring>
+        <name>d_nbr_zeros_per_burst</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="46" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a316586e3fc26c5f5c250d35166e39dc2" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::Fs</definition>
+        <argsstring></argsstring>
+        <name>Fs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="48" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a6f591dbf738844f307931e65e24bb19f" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::samples_cycle</definition>
+        <argsstring></argsstring>
+        <name>samples_cycle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="49" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a52e5fa2684373c3234489330d353a090" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::nbr_samples_wait_bef_list</definition>
+        <argsstring></argsstring>
+        <name>nbr_samples_wait_bef_list</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="50" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a7bbe19d8a900f2b3e1e78ad75565713a" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::state</definition>
+        <argsstring></argsstring>
+        <name>state</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="51" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ae7d2e4bdd90c3cfca4b969f81a508e60" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::cpt_samples</definition>
+        <argsstring></argsstring>
+        <name>cpt_samples</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="52" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a0390b07998f9ecf7aa0c73476a16dce8" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::cpt_zeros_burst</definition>
+        <argsstring></argsstring>
+        <name>cpt_zeros_burst</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="53" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a152ecef35434abebf57bf544248e133d" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::cpt_missed_symbols</definition>
+        <argsstring></argsstring>
+        <name>cpt_missed_symbols</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="54" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ac22d98ae5c513771467b9dea309cfd17" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::cpt_samples_rx_packet</definition>
+        <argsstring></argsstring>
+        <name>cpt_samples_rx_packet</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="55" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a8742786ec0bb1f3d7366183cd7d0d141" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::cpt_samples_tx_packet</definition>
+        <argsstring></argsstring>
+        <name>cpt_samples_tx_packet</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="56" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="56" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ab596a9a3d028bc2df4aa691137955594" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::cpt_samples_wait_bef_list</definition>
+        <argsstring></argsstring>
+        <name>cpt_samples_wait_bef_list</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="57" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1aabaa35b75b2b16f7e832402224c6ce22" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool gr::howto::forwardv_impl::first_burst_of_zeros</definition>
+        <argsstring></argsstring>
+        <name>first_burst_of_zeros</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="58" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ab65ce689fd8024286a0f4f508be1ab22" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float gr::howto::forwardv_impl::out_real</definition>
+        <argsstring></argsstring>
+        <name>out_real</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="59" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a00f011f46dd2ae9f4b0fecffef863173" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float gr::howto::forwardv_impl::out_imag</definition>
+        <argsstring></argsstring>
+        <name>out_imag</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="60" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1afb9e6668d496f3ac240329d57a64fe84" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float gr::howto::forwardv_impl::power_packet</definition>
+        <argsstring></argsstring>
+        <name>power_packet</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="61" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a3da9d5e3aae924441a0083dcc4c3b687" prot="public" static="no" mutable="no">
+        <type>gsl_vector_float *</type>
+        <definition>gsl_vector_float* gr::howto::forwardv_impl::rx_samples_arg</definition>
+        <argsstring></argsstring>
+        <name>rx_samples_arg</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="62" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1aaba67e7e07733464dec309d476fb4869" prot="public" static="no" mutable="no">
+        <type>gsl_vector_float *</type>
+        <definition>gsl_vector_float* gr::howto::forwardv_impl::rx_samples_real</definition>
+        <argsstring></argsstring>
+        <name>rx_samples_real</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="63" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1af3a6e525c16f8d8863d2dc664ab57164" prot="public" static="no" mutable="no">
+        <type>gsl_vector_float *</type>
+        <definition>gsl_vector_float* gr::howto::forwardv_impl::rx_samples_imag</definition>
+        <argsstring></argsstring>
+        <name>rx_samples_imag</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="64" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a4a27a443b5730b951c8eff23d19400bb" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::fracs</definition>
+        <argsstring></argsstring>
+        <name>fracs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="66" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a99350206a4277ad2efbb12e0e702369b" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::fracs_rx</definition>
+        <argsstring></argsstring>
+        <name>fracs_rx</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="67" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a3700e610acf162ea38bbf31af305b7e7" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::fracs_tx</definition>
+        <argsstring></argsstring>
+        <name>fracs_tx</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="68" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a472b16ace3966f07f5cabd46856737bd" prot="public" static="no" mutable="no">
+        <type>double</type>
+        <definition>double gr::howto::forwardv_impl::fracs_tx_zeros</definition>
+        <argsstring></argsstring>
+        <name>fracs_tx_zeros</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="69" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1aee443778abf518c77c6ec6c4a3582613" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t gr::howto::forwardv_impl::secs</definition>
+        <argsstring></argsstring>
+        <name>secs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="70" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a8cb7aac57bd685da3febf67a94b0dcc3" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t gr::howto::forwardv_impl::secs_rx</definition>
+        <argsstring></argsstring>
+        <name>secs_rx</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="71" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1aa58f729209b555e74c0c180fa259a4ad" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t gr::howto::forwardv_impl::secs_tx</definition>
+        <argsstring></argsstring>
+        <name>secs_tx</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="72" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1a3dcdf49cb7973ed9836bf5817575d600" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t gr::howto::forwardv_impl::secs_tx_zeros</definition>
+        <argsstring></argsstring>
+        <name>secs_tx_zeros</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="73" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ab76ba79049adc3bfc1a2a062a6aee5d1" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t gr::howto::forwardv_impl::offs</definition>
+        <argsstring></argsstring>
+        <name>offs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="74" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classgr_1_1howto_1_1forwardv__impl_1ae50d324c6e2a000a0054ab1d4541266e" prot="public" static="no" mutable="no">
+        <type>uint64_t</type>
+        <definition>uint64_t gr::howto::forwardv_impl::start_time_packet</definition>
+        <argsstring></argsstring>
+        <name>start_time_packet</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="75" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1aec933d86a9e0df8c61bb23ae29bcc73e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>gr::howto::forwardv_impl::forwardv_impl</definition>
+        <argsstring>(double sample_rate, double rx_min_treshold, double rx_max_treshold, double time_delay, double time_cycle, int packet_length, int max_missed_symbols, int nbr_zeros_per_burst)</argsstring>
+        <name>forwardv_impl</name>
+        <param>
+          <type>double</type>
+          <declname>sample_rate</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>rx_min_treshold</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>rx_max_treshold</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>time_delay</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>time_cycle</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>packet_length</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>max_missed_symbols</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>nbr_zeros_per_burst</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="76" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1a17ef216b93b9c3a2758c3c5a3819653c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>gr::howto::forwardv_impl::~forwardv_impl</definition>
+        <argsstring>()</argsstring>
+        <name>~forwardv_impl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="77" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1a46202544ac3e62ca0a1db43e7015d352" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void gr::howto::forwardv_impl::make_time_tag</definition>
+        <argsstring>(const uint64_t tag_count)</argsstring>
+        <name>make_time_tag</name>
+        <param>
+          <type>const uint64_t</type>
+          <declname>tag_count</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="78" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1a6ba8493b293e76c262a4000825d76baa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void gr::howto::forwardv_impl::make_time_tag_zeros</definition>
+        <argsstring>(const uint64_t tag_count)</argsstring>
+        <name>make_time_tag_zeros</name>
+        <param>
+          <type>const uint64_t</type>
+          <declname>tag_count</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="79" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1ac6fe29bd128ce95d4268a6dd174b9dd3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void gr::howto::forwardv_impl::make_sob_tag</definition>
+        <argsstring>(const uint64_t tag_count)</argsstring>
+        <name>make_sob_tag</name>
+        <param>
+          <type>const uint64_t</type>
+          <declname>tag_count</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="80" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1a8ca25bc345231e45e7667d9686d915ec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void gr::howto::forwardv_impl::make_eob_tag</definition>
+        <argsstring>(const uint64_t tag_count)</argsstring>
+        <name>make_eob_tag</name>
+        <param>
+          <type>const uint64_t</type>
+          <declname>tag_count</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="81" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1a1fb3af6104120525ce5d86b6bce4aba0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void gr::howto::forwardv_impl::forecast</definition>
+        <argsstring>(int noutput_items, gr_vector_int &amp;ninput_items_required)</argsstring>
+        <name>forecast</name>
+        <param>
+          <type>int</type>
+          <declname>noutput_items</declname>
+        </param>
+        <param>
+          <type><ref refid="gr__types_8h_1ab02d0a829d67d39e3ac3163016d3a8be" kindref="member">gr_vector_int</ref> &amp;</type>
+          <declname>ninput_items_required</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="85" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="classgr_1_1howto_1_1forwardv__impl_1a5f4a95bf93ee71edd34f92c7f92ab342" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int gr::howto::forwardv_impl::general_work</definition>
+        <argsstring>(int noutput_items, gr_vector_int &amp;ninput_items, gr_vector_const_void_star &amp;input_items, gr_vector_void_star &amp;output_items)</argsstring>
+        <name>general_work</name>
+        <param>
+          <type>int</type>
+          <declname>noutput_items</declname>
+        </param>
+        <param>
+          <type><ref refid="gr__types_8h_1ab02d0a829d67d39e3ac3163016d3a8be" kindref="member">gr_vector_int</ref> &amp;</type>
+          <declname>ninput_items</declname>
+        </param>
+        <param>
+          <type><ref refid="gr__types_8h_1a9852a3d906d823cb70eb9c29e7f2a43d" kindref="member">gr_vector_const_void_star</ref> &amp;</type>
+          <declname>input_items</declname>
+        </param>
+        <param>
+          <type><ref refid="gr__types_8h_1acd3f499576e769966ea44554b359d949" kindref="member">gr_vector_void_star</ref> &amp;</type>
+          <declname>output_items</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="87" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>gr::howto::forwardv_impl</label>
+        <link refid="classgr_1_1howto_1_1forwardv__impl"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>gr::howto::forwardv</label>
+        <link refid="classgr_1_1howto_1_1forwardv"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>gr::block</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="8">
+        <label>gr::howto::forwardv_impl</label>
+        <link refid="classgr_1_1howto_1_1forwardv__impl"/>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>gr::howto::forwardv</label>
+        <link refid="classgr_1_1howto_1_1forwardv"/>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>gr::block</label>
+      </node>
+    </collaborationgraph>
+    <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" line="34" column="1" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/forwardv_impl.h" bodystart="33" bodyend="91"/>
+    <listofallmembers>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a152ecef35434abebf57bf544248e133d" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>cpt_missed_symbols</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ae7d2e4bdd90c3cfca4b969f81a508e60" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>cpt_samples</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ac22d98ae5c513771467b9dea309cfd17" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>cpt_samples_rx_packet</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a8742786ec0bb1f3d7366183cd7d0d141" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>cpt_samples_tx_packet</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ab596a9a3d028bc2df4aa691137955594" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>cpt_samples_wait_bef_list</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a0390b07998f9ecf7aa0c73476a16dce8" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>cpt_zeros_burst</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a5b5adc31050c2026685f15b792305af2" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_max_missed_symbols</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1aeb9f4848f46ab4879ece56a87bdc20b5" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_N</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ab13fbe99cc3c45f81a0cc8fe7876248b" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_nbr_zeros_per_burst</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a41887dfe2b7c55bd14b9382d270e2bb8" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_rx_max_treshold</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a04eda138017c6d6fb00ccf05886555c6" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_rx_min_treshold</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a4f79160b9e3edcee9f88f68cdbf1e835" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_sample_rate</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a4b1f005c9a94d9d23705517d4db2d293" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_time_cycle</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ad05881f382b287451527785787b63cf2" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>d_time_delay</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1aabaa35b75b2b16f7e832402224c6ce22" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>first_burst_of_zeros</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a1fb3af6104120525ce5d86b6bce4aba0" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>forecast</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1aec933d86a9e0df8c61bb23ae29bcc73e" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>forwardv_impl</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a4a27a443b5730b951c8eff23d19400bb" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>fracs</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a99350206a4277ad2efbb12e0e702369b" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>fracs_rx</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a3700e610acf162ea38bbf31af305b7e7" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>fracs_tx</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a472b16ace3966f07f5cabd46856737bd" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>fracs_tx_zeros</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a316586e3fc26c5f5c250d35166e39dc2" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>Fs</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a5f4a95bf93ee71edd34f92c7f92ab342" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>general_work</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv_1a4eea193de95cb37d6b82980958284df7" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>make</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a8ca25bc345231e45e7667d9686d915ec" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>make_eob_tag</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ac6fe29bd128ce95d4268a6dd174b9dd3" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>make_sob_tag</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a46202544ac3e62ca0a1db43e7015d352" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>make_time_tag</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a6ba8493b293e76c262a4000825d76baa" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>make_time_tag_zeros</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a52e5fa2684373c3234489330d353a090" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>nbr_samples_wait_bef_list</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ab76ba79049adc3bfc1a2a062a6aee5d1" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>offs</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a00f011f46dd2ae9f4b0fecffef863173" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>out_imag</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ab65ce689fd8024286a0f4f508be1ab22" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>out_real</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1afb9e6668d496f3ac240329d57a64fe84" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>power_packet</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a3da9d5e3aae924441a0083dcc4c3b687" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>rx_samples_arg</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1af3a6e525c16f8d8863d2dc664ab57164" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>rx_samples_imag</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1aaba67e7e07733464dec309d476fb4869" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>rx_samples_real</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a6f591dbf738844f307931e65e24bb19f" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>samples_cycle</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1aee443778abf518c77c6ec6c4a3582613" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>secs</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a8cb7aac57bd685da3febf67a94b0dcc3" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>secs_rx</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1aa58f729209b555e74c0c180fa259a4ad" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>secs_tx</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a3dcdf49cb7973ed9836bf5817575d600" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>secs_tx_zeros</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv_1a806f3606d97bbe0661463977a290f0fe" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>sptr</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1ae50d324c6e2a000a0054ab1d4541266e" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>start_time_packet</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a7bbe19d8a900f2b3e1e78ad75565713a" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>state</name></member>
+      <member refid="classgr_1_1howto_1_1forwardv__impl_1a17ef216b93b9c3a2758c3c5a3819653c" prot="public" virt="non-virtual"><scope>gr::howto::forwardv_impl</scope><name>~forwardv_impl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

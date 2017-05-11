@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="attributes_8h" kind="file" language="C++">
+    <compoundname>attributes.h</compoundname>
+    <includedby refid="gr__core__api_8h" local="no">gr_core_api.h</includedby>
+    <invincdepgraph>
+      <node id="8">
+        <label>gr_block_detail.h</label>
+        <link refid="gr__block__detail_8h"/>
+      </node>
+      <node id="9">
+        <label>gr_runtime_types.h</label>
+        <link refid="gr__runtime__types_8h"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>gr_types.h</label>
+        <link refid="gr__types_8h"/>
+        <childnode refid="9" relation="include">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>gr_core_api.h</label>
+        <link refid="gr__core__api_8h"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>attributes.h</label>
+        <link refid="attributes.h"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+      <sectiondef kind="define">
+      <memberdef kind="define" id="attributes_8h_1a9695b5632261fecaef4b77d4819ce4ad" prot="public" static="no">
+        <name>__GR_ATTR_ALIGNED</name>
+        <param><defname>x</defname></param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" line="27" column="12" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="define" id="attributes_8h_1acbaa7779b15a9cebd6b2fb85855e3c88" prot="public" static="no">
+        <name>__GR_ATTR_UNUSED</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" line="28" column="11" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="define" id="attributes_8h_1a5387f860a3c272be65aaac519c3486b6" prot="public" static="no">
+        <name>__GR_ATTR_INLINE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" line="29" column="11" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="define" id="attributes_8h_1af04acd76ab80482c83d03f3cc797b8d3" prot="public" static="no">
+        <name>__GR_ATTR_DEPRECATED</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" line="30" column="11" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="define" id="attributes_8h_1a4653309fbf8b3cf0e6d571d96f3f9ccc" prot="public" static="no">
+        <name>__GR_ATTR_EXPORT</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" line="31" column="11" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="define" id="attributes_8h_1a17b9cb3c185c92af4799ec9b0a38f3c1" prot="public" static="no">
+        <name>__GR_ATTR_IMPORT</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" line="32" column="11" bodyfile="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/madhuprana/cognitive/Relay_node/relayforward/gr-howto/lib/attributes.h"/>
+  </compounddef>
+</doxygen>
